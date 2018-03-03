@@ -1,4 +1,4 @@
-# LeastSlackTimeSchedulerImplementation
+# Least-Slack-Time Scheduler Implementation in C
 A basic least-slack-time scheduler implementation in c for time shared systems.
 
 This project was a assignment for my BIL395-Programming Languages class.
